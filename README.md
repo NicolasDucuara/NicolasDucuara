@@ -22,7 +22,7 @@
     ![Linkedin: NicolasReyD](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/NicolasDucuara/NicolasDucuara">
-    ![GitHub: NicolasDucuara](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+    ![GitHub: NicolasDucuara](https://img.shields.io/badge/LinkedIn-Connect-blue)
 </a>
 &emsp;
 
@@ -31,7 +31,8 @@
 ### Programming languages:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-|[C/C++](https://img.shields.io/badge/-C-000?&logo=C)
+|[C/C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+|Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Misc tools:
@@ -45,6 +46,7 @@
 ### Services & Frameworks: 
 &emsp;
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### Databases:
 &emsp;
