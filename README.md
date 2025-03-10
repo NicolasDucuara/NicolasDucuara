@@ -19,10 +19,10 @@
 
 &emsp;
 <a href="https://www.linkedin.com/in/nicolasreyd/">
-    ![Linkedin: NicolasReyD](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 </a>
 <a href="https://github.com/NicolasDucuara/NicolasDucuara">
-    ![GitHub: NicolasDucuara](https://img.shields.io/badge/LinkedIn-Connect-blue)
+    [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 </a>
 &emsp;
 
@@ -32,7 +32,7 @@
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C/C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Misc tools:
