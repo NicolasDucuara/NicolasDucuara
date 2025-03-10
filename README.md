@@ -31,8 +31,8 @@
 ### Programming languages:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-|[C/C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
-|Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Misc tools:
@@ -46,7 +46,7 @@
 ### Services & Frameworks: 
 &emsp;
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 
 ### Databases:
 &emsp;
