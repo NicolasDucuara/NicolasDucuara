@@ -4,7 +4,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Nicolas, engineering student, I have experience in projects in embedded systems, robotics and automation.</h3>
+<h3 align="left">Hi 👋, I'm Nicolas, telecommunications engineer, I am a backend developer.</h3>
 &emsp;
 
 -------------------
@@ -31,17 +31,13 @@
 ### Programming languages:
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C/C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 
 ### Services & Frameworks: 
 &emsp;
@@ -52,7 +48,6 @@
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 
 ------
