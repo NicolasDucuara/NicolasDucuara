@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 
-<img src="https://github.com/NicolasDucuara/NicolasDucuara/blob/main/header.png" align="center" alt="nicolas header image">
-
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Nicolas, telecommunications engineer, I am a backend developer.</h3>
+<h3 align="left">Hi 👋, I'm Nicolas, telecommunications engineer and backend developer.</h3>
 &emsp;
 
 -------------------
